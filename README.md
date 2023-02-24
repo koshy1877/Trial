@@ -1,3 +1,3 @@
 # Trial
 To learngit
-Hehe , I hve edited this file in github.
+Hehe , I have edited this file in github.
